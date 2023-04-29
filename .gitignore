@@ -1,0 +1,7 @@
+node_modules
+.env
+uploads/
+redis/
+data/
+media/
+gcp.json
